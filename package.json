@@ -1,0 +1,14 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "stores flashcards and cloze deleted items",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^3.2.3"
+  }
+}
